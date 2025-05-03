@@ -40,6 +40,7 @@ const Hero = () => {
   };
 
   return (
+    <>
     <section
       id={"hero"}
       className="min-h-screen flex items-center justify-center bg-gradient-to-b from-primary-100 to-white relative overflow-hidden px-4 sm:px-6 lg:px-8"
@@ -226,6 +227,7 @@ const Hero = () => {
         </motion.div>
       </motion.div>
     </section>
+    </>
   );
 };
 

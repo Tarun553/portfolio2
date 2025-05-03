@@ -1,83 +1,102 @@
 {
   "personal": {
-    "name": "John Doe",
+    "name": "Tarun Choudhary",
     "role": "Full Stack Developer",
     "description": "I build exceptional and accessible digital experiences for the web.",
     "avatar": "/avatar.jpg",
-    "location": "New York, USA",
-    "email": "john@example.com",
+    "location": "UttarPardesh, India",
+    "email": "Tarunchoudhary.work07@gmail.com",
     "socials": [
       {
         "platform": "GitHub",
-        "url": "https://github.com/johndoe"
+        "url": "https://github.com/Tarun553"
       },
       {
         "platform": "LinkedIn",
-        "url": "https://linkedin.com/in/johndoe"
+        "url": "https://linkedin.com/in/Tarun553"
       }
     ]
   },
   "about": {
     "title": "About Me",
     "description": "With a passion for both technology and design, I develop scalable, high-performance applications that captivate users and drive success.",
-    "resume": "/resume.pdf"
+    "resume": "/tarun's Resume.pdf"
   },
   "projects": [
     {
-      "title": "Project One",
-      "description": "A brief description of your project. This project demonstrates how to build a simple web application using React and TypeScript.",
-      "tags": ["React", "TypeScript", "TailwindCSS"],
-      "image": "https://placehold.co/600x400?text=Project+One",
-      "url": "https://project1.com",
-      "github": "https://github.com/username/project1"
+      "title": "PDFuse",
+      "description": "Transform PDF's into concise summaries using AI. Get a beautiful reel of the document in seconds.",
+      "tags": ["React", "TypeScript", "TailwindCSS","Next.js","Node.js"],
+      "image": "/pdfuse.jpg",
+      "url": "https://pdfuse-pearl.vercel.app/",
+      "github": "https://github.com/Tarun553/PDFuse"
+    },
+    {
+      "title": "PrepWise",
+      "description": "AI-powered interview preparation tool that helps users practice for technical interviews with real-time feedback.",
+      "tags": ["React", "TypeScript", "TailwindCSS","Next.js","Node.js"],
+      "image": "/ai-interview.png",
+      "url": "https://prep-ai-interview.vercel.app/",
+      "github": "https://github.com/Tarun553/prep_AI_interview"
+    },
+    {
+      "title": "AI Medical Assistant",
+      "description": "The AI Medical Assistant is a state-of-the-art system that leverages AI technologies to help analyze medical conditions from both speech input (symptoms description) and medical images (X-rays, CT scans, etc.).",
+      "tags": ["python", "ElevenLabs", "Groq","Gradio","OpenAi-Whisper"],
+      "image": "/ai-doctor.png",
+      "url": "https://huggingface.co/spaces/tarunn553/my-gradio-app",
+      "github": "https://github.com/Tarun553/AI-Medical-Assistant"
     }
   ],
   "skills": [
     { "name": "React" },
     { "name": "Node.js" },
     { "name": "Python" },
-    { "name": "Java" },
+    { "name": "langchain" },
     { "name": "JavaScript" },
-    { "name": "HTML" },
-    { "name": "CSS" },
+    { "name": "GenAI" },
+    { "name": "SQL DB" },
     { "name": "Git" },
-    { "name": "Figma" },
-    { "name": "Sketch" },
-    { "name": "Adobe XD" }
+    { "name": "No-SQL DB" },
+    { "name": "RAG" },
+    { "name": "NextJs" }
   ],
-  "experience": [
-    {
-      "company": "Health Pulse Connect",
-      "role": "Frontend Developer Intern",
-      "startDate": "May 2024",
-      "endDate": "June 2024",
-      "responsibilities": [
-        "Developed and maintained a health sector startup, implementing real-time chat and video call features with WebSockets.",
-        "Used Redux for state management and API integration, improving application performance.",
-        "Enhanced the web app's UI for a better user experience."
-      ]
-    },
-    {
-      "company": "Tech Innovations Inc.",
-      "role": "Software Engineer Intern",
-      "startDate": "June 2023",
-      "endDate": "August 2023",
-      "responsibilities": [
-        "Collaborated with the backend team to integrate APIs into the frontend using React.",
-        "Improved the scalability of the product by optimizing React component rendering.",
-        "Implemented automated unit tests using Jest to ensure the robustness of the application."
-      ]
-    },
-    {
-      "company": "Creative Solutions Ltd.",
-      "role": "UI/UX Designer Intern",
-      "startDate": "January 2023",
-      "endDate": "April 2023",
-      "responsibilities": [
-        "Designed user-friendly interfaces for mobile and web applications using Figma.",
-        "Collaborated with the development team to ensure smooth handoff and implementation of designs.",
-        "Conducted user research and usability testing to improve the overall user experience."
-      ]
-    }
-  ]
+ "experience": [
+  {
+    "company": "",
+    "role": "GenAI Learner",
+    "startDate": "Present",
+    "endDate": "",
+    "responsibilities": [
+      "Currently learning and exploring Generative AI (GenAI).",
+      "Building foundational skills in software development through self-driven projects and coursework.",
+      "Actively participating in online communities and contributing to open-source projects.",
+      "Eager to apply my knowledge and grow as a professional in the tech industry."
+    ]
+  },
+  {
+    "company": "",
+    "role": "DevOps Enthusiast",
+    "startDate": "Present",
+    "endDate": "",
+    "responsibilities": [
+      "Gaining hands-on experience with CI/CD pipelines, containerization, and cloud platforms.",
+      "Learning tools such as Docker, Kubernetes, and GitHub Actions.",
+      "Understanding best practices for automation, deployment, and infrastructure as code.",
+      "Working on personal projects to apply DevOps principles in real-world scenarios."
+    ]
+  },
+  {
+    "company": "",
+    "role": "DSA Learner",
+    "startDate": "Present",
+    "endDate": "",
+    "responsibilities": [
+      "Learning Data Structures and Algorithms (DSA) to strengthen logic building and problem-solving skills.",
+      "Practicing coding problems on platforms like LeetCode, Codeforces, and HackerRank.",
+      "Implementing various algorithms and data structures in different programming languages.",
+      "Participating in coding challenges and contests to improve speed and accuracy."
+    ]
+  }
+]
 }
