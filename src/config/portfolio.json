@@ -20,33 +20,34 @@
   "about": {
     "title": "About Me",
     "description": "With a passion for both technology and design, I develop scalable, high-performance applications that captivate users and drive success.",
-    "resume": "/tarun's Resume.pdf"
+    "resume": "/tarun-choudhary_resume.pdf"
   },
   "projects": [
     {
-      "title": "PDFuse",
-      "description": "Transform PDF's into concise summaries using AI. Get a beautiful reel of the document in seconds.",
-      "tags": ["React", "TypeScript", "TailwindCSS","Next.js","Node.js"],
-      "image": "/pdfuse.jpg",
-      "url": "https://pdfuse-pearl.vercel.app/",
-      "github": "https://github.com/Tarun553/PDFuse"
+      "title": "AI-JobPortal",
+      "description": "It supports two user roles (students and recruiters), enables posting jobs, applying, uploading resumes, and automatically scores how well a resume matches a job description using generative‑AI embeddings stored in a Pinecone vector database.",
+      "tags": ["React", "javascript", "TailwindCSS","Redux Toolkit" ,"MongoDB","Node.js", "Mongoose", "LangChain", "Pinecone", "Gemini API"],
+      "image": "",
+      "url": "",
+      "github": "https://github.com/Tarun553/job-portal"
     },
-    {
-      "title": "PrepWise",
-      "description": "AI-powered interview preparation tool that helps users practice for technical interviews with real-time feedback.",
-      "tags": ["React", "TypeScript", "TailwindCSS","Next.js","Node.js"],
-      "image": "/ai-interview.png",
-      "url": "https://prep-ai-interview.vercel.app/",
-      "github": "https://github.com/Tarun553/prep_AI_interview"
-    },
-    {
-      "title": "AI Medical Assistant",
-      "description": "The AI Medical Assistant is a state-of-the-art system that leverages AI technologies to help analyze medical conditions from both speech input (symptoms description) and medical images (X-rays, CT scans, etc.).",
-      "tags": ["python", "ElevenLabs", "Groq","Gradio","OpenAi-Whisper"],
-      "image": "/ai-doctor.png",
-      "url": "https://huggingface.co/spaces/tarunn553/my-gradio-app",
-      "github": "https://github.com/Tarun553/AI-Medical-Assistant"
-    }
+   {
+  "title": "Food Delivery App(HOTPOT)",
+  "description": "Full-stack food delivery platform with multi-role support (User, Shop Owner, Delivery Boy). Features include restaurant browsing, real-time order tracking, secure payments, and role-based dashboards — built with the MERN stack.",
+  "tags": ["React", "Vite", "TailwindCSS", "shadcn/ui", "Node.js", "Express", "MongoDB", "JWT", "Socket.io", "google maps API", "google auth"],
+  "image": "",
+  "url": "",
+  "github": "https://github.com/Tarun553/Hotpot"
+},
+   {
+  "title": "AI-Powered Learning Management System",
+  "description": "AI-based platform that generates course layouts, topic-wise plans, and curated YouTube videos using AI. Features dynamic course structuring, personalized recommendations, and a responsive UI for a smooth learning experience.",
+  "tags": ["Next.js", "TypeScript", "TailwindCSS", "Clerk", "Drizzle ORM", "PostgreSQL", "Neon"],
+  "image": "/Screenshot 2025-09-22 232113.png",
+  "url": "https://lms-three-lac.vercel.app/",
+  "github": "https://github.com/Tarun553/LMS"
+}
+
   ],
   "skills": [
     { "name": "React" },
